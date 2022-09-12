@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+
+body {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  padding: 5%;
+  padding-top: 3.5%;
+  background: rgb(166, 166, 166);
+  background: linear-gradient(0deg, rgba(166, 166, 166, 1) 0%, rgba(245, 225, 179, 1) 100%);
+  font-family: 'Pacifico', cursive;
+}
+
+h1 {
+  text-align: center;
+  margin-bottom: 2%;
+  color: #262523;
+}
+
+h2 {
+  text-align: center;
+  color: #262523;
+}
+
+h3 {
+  text-align: center;
+  color: #262523;
+}
+
+.game-area {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  background-color: #ffffff;
+  width: 50%;
+  border-radius: 50px;
+  margin-left: 25%;
+  margin-left: 25%;
+  margin-bottom: 2%;
+}
+
+button {
+  width: 40%;
+  padding: 1%;
+  margin-left: 30%;
+  margin-left: 30%;
+  border-radius: 20px;
+  font-family: 'Pacifico', cursive;
+}
